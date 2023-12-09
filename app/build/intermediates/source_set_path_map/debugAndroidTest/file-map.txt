@@ -1,0 +1,6 @@
+br.com.nibook.test.app-core-1.5.0-0 C:\Users\TECHSTUDIO\.gradle\caches\transforms-3\604f58089f0e26d0b0d99d0492d4427a\transformed\core-1.5.0\res
+br.com.nibook.test.app-annotation-experimental-1.3.0-1 C:\Users\TECHSTUDIO\.gradle\caches\transforms-3\6d1a5504d32ca63157652233a84d6f1e\transformed\annotation-experimental-1.3.0\res
+br.com.nibook.test.app-androidTest-2 D:\PROJETOS_POS_IFSP\NiBook\app\build\generated\res\resValues\androidTest\debug
+br.com.nibook.test.app-mergeDebugAndroidTestResources-3 D:\PROJETOS_POS_IFSP\NiBook\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+br.com.nibook.test.app-mergeDebugAndroidTestResources-4 D:\PROJETOS_POS_IFSP\NiBook\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+br.com.nibook.test.app-merged_res-5 D:\PROJETOS_POS_IFSP\NiBook\app\build\intermediates\merged_res\debugAndroidTest

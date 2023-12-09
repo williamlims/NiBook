@@ -1,5 +1,6 @@
 package br.com.nibook.repository
 
+import androidx.lifecycle.LiveData
 import br.com.nibook.data.Contact
 import br.com.nibook.data.ContactDAO
 
@@ -16,11 +17,11 @@ class ContactRepository(private val contactDAO: ContactDAO) {
         contactDAO.delete(contact)
     }
 
-    suspend fun getAll(){
-        contactDAO.getAll()
+    fun getAll(): LiveData<List<Contact>> {
+        return contactDAO.getAll()
     }
 
-    suspend fun getContact(contactid: Int){
-        contactDAO.getContact(contactid)
+    fun getContact(contactid: Int): LiveData<Contact>{
+        return contactDAO.getContact(contactid)
     }
 }

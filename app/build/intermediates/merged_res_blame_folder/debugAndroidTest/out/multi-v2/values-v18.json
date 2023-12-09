@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "br.com.nibook.test.app-mergeDebugAndroidTestResources-3:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\TECHSTUDIO\\.gradle\\caches\\transforms-3\\604f58089f0e26d0b0d99d0492d4427a\\transformed\\core-1.5.0\\res\\values-v18\\values.xml",
+                    "from": {
+                        "startLines": "4,12",
+                        "startColumns": "0,0",
+                        "startOffsets": "180,596",
+                        "endLines": "11,19",
+                        "endColumns": "8,8",
+                        "endOffsets": "595,1009"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,475",
+                        "endLines": "9,17",
+                        "endColumns": "8,8",
+                        "endOffsets": "470,888"
+                    }
+                }
+            ]
+        }
+    ]
+}

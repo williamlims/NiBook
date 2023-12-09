@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "br.com.nibook.app-mergeDebugResources-50:/layout/fragment_contacts.xml",
+        "source": "br.com.nibook.app-main-53:/layout/fragment_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-mergeDebugResources-50:\\layout\\fragment_contacts.xml",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-mergeDebugResources-50:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-mergeDebugResources-50:\\layout\\contact_cell.xml",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\layout\\contact_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-mergeDebugResources-50:\\layout\\fragment_detail.xml",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-mergeDebugResources-50:\\layout\\common.xml",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\layout\\common.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-mergeDebugResources-50:\\layout\\fragment_register.xml",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\layout\\fragment_register.xml"
+    }
+]

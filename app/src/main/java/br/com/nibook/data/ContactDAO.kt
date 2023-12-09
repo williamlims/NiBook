@@ -1,5 +1,6 @@
 package br.com.nibook.data
 
+import androidx.lifecycle.LiveData
 import androidx.room.Dao
 import androidx.room.Delete
 import androidx.room.Insert
@@ -17,10 +18,10 @@ interface ContactDAO {
     @Delete
     suspend fun delete(contact: Contact)
 
-    @Query("SELECT * FROM contact")
-    suspend fun getAll(): List<Contact>
+    @Query("SELECT * FROM contact ORDER BY name")
+    fun getAll(): LiveData<List<Contact>>
 
     @Query("SELECT * FROM contact WHERE id=:contactid")
-    suspend fun getContact(contactid:Int): Contact
+    fun getContact(contactid:Int): LiveData<Contact>
 
 }

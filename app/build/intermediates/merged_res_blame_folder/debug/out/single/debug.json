@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "br.com.nibook.app-merged_res-51:/navigation_navbook.xml.flat",
+        "source": "br.com.nibook.app-main-53:/navigation/navbook.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\layout_contact_cell.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\layout\\contact_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\menu_detail_menu.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\menu\\detail_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\layout_common.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\layout\\common.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-pngs-47:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\layout_fragment_detail.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-pngs-47:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\menu_register_menu.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\menu\\register_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-pngs-47:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-pngs-47:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-pngs-47:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\navigation_navbook.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\navigation\\navbook.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-pngs-47:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\layout_fragment_contacts.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\layout\\fragment_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-pngs-47:\\drawable-ldpi\\ic_launcher_foreground.png"
+    }
+]
