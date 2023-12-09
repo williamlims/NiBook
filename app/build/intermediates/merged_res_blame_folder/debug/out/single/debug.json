@@ -1,15 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\layout\\activity_splash_screen.xml"
+    },
+    {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\menu_main_menu.xml.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\menu\\main_menu.xml"
-    },
-    {
-        "merged": "br.com.nibook.app-merged_res-51:/navigation_navbook.xml.flat",
-        "source": "br.com.nibook.app-main-53:/navigation/navbook.xml"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
@@ -58,6 +58,10 @@
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.nibook.app-merged_res-51:/layout_contact_cell.xml.flat",
+        "source": "br.com.nibook.app-main-53:/layout/contact_cell.xml"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -110,6 +114,10 @@
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-main-53:\\drawable\\logo.png"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.com.nibook.app-merged_res-51:\\navigation_navbook.xml.flat",

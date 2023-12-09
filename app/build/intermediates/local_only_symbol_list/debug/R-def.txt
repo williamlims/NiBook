@@ -4,6 +4,8 @@ color black
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable logo
+id SplashScreenImage
 id action_alterarContato
 id action_contactsFragment_to_detailFragment
 id action_contactsFragment_to_registerFragment
@@ -29,6 +31,7 @@ id recyclerview
 id registerFragment
 id toolbar
 layout activity_main
+layout activity_splash_screen
 layout common
 layout contact_cell
 layout fragment_contacts

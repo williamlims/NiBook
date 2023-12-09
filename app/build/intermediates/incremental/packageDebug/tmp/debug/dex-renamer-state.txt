@@ -1,4 +1,4 @@
-#Sat Dec 09 14:09:29 BRT 2023
+#Sat Dec 09 20:18:42 BRT 2023
 base.0=D\:\\PROJETOS_POS_IFSP\\NiBook\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=D\:\\PROJETOS_POS_IFSP\\NiBook\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=D\:\\PROJETOS_POS_IFSP\\NiBook\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
